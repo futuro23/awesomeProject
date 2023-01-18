@@ -11,5 +11,6 @@ func main() {
 	fmt.Println(n)
 	fmt.Println(b)
 	fmt.Println(*n)
+	fmt.Println(8)
 
 }
